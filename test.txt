@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 Hello Aliya, How are You?
-=======
-Hello Alina, How are You?
->>>>>>> 8e09eae228b10e2ca507f1e48ea668a2b3b8ded7
