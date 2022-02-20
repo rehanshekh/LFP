@@ -1,1 +1,10 @@
+<<<<<<< HEAD
 Done Assignment
+=======
+<<<<<<< HEAD
+Hello Alina, How are You?
+=======
+Hello Rehan, How are You?
+Hello Aliya, How are You?
+>>>>>>> e87177d393253f7a54670a8ef529d082d3867718
+>>>>>>> 13b521725e4a7a2e694dd4ebe8db4895622a01ec
